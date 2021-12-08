@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>热门头条</h1>
     <router-view></router-view>
   </div>
 </template>
@@ -17,5 +16,4 @@ export default {
 </script>
 
 <style lang="less" scoped>
-
 </style>
